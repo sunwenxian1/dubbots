@@ -61,7 +61,7 @@ public class ItemServiceImpl implements ItemService {
 	 * @param page
 	 * @param rows
 	 * @return
-	 * @see com.taotao.service.ItemService#getItemList(long, long)
+	 * @see //com.taotao.service.ItemService#getItemList(long, long)
 	 */
 	@Override
 	public EUDataGridResult getItemList(int page, int rows) {
