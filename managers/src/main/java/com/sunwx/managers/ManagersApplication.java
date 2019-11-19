@@ -8,7 +8,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @SpringBootApplication
 @MapperScan("com.sunwx.managers.mapper")
-@ComponentScan("com.sunwx.managers.service")
 public class ManagersApplication {
 
 	public static void main(String[] args) {
